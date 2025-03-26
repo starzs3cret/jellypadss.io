@@ -74,7 +74,6 @@ You can publish your file by opening the **Publish** sub-menu and by clicking **
 - Markdown: publish the Markdown text on a website that can interpret it (**GitHub** for instance),
 - HTML: publish the file converted to HTML via a Handlebars template (on a blog for example).
 
-
 *[HTML]: HyperText Markup Language
 
 ## Update a publication
@@ -145,5 +144,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTE1MzE1N119
+eyJoaXN0b3J5IjpbMTM4MTkwNDY2M119
 -->
