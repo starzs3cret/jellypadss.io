@@ -19,6 +19,25 @@ berikut responsnya,
   "failedPasswordAttempts": 0,
   "failedSofTokenAttempts": 0
 }```
+
+
+```json
+{
+  "errorCode": "0078",
+  "sourceSystem": "Digital Banking",
+  "message": "3",
+  "transactionId": null,
+  "engMessage": "You have reached the maximum number of generate for OTP Please wait for 3 minutes.",
+  "idnMessage": "Anda telah mencapai batas maksimum generate kode OTP. Silakan menunggu selama 3 menit.",
+  "activityRefCode": null,
+  "refNumber": null,
+  "toAccountNumber": null,
+  "failedPinAttempts": 0,
+  "settingFailedPinAttempts": 0,
+  "failedPasswordAttempts": 0,
+  "failedSofTokenAttempts": 0
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3MzczMTMwXX0=
+eyJoaXN0b3J5IjpbMTQ4ODA4NzE0NSw4MzczNzMxMzBdfQ==
 -->
